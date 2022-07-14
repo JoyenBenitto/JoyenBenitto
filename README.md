@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Joyen Benitto</h1>
-<h3 align="center">A passionate Techi from Bangalore,India</h3>
+<h3 align="center">📍Bangalore,India</h3>
 <img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 
