@@ -1,5 +1,5 @@
 # 💫 I am Joyen Benitto:
-🔭 I’m currently working on ARM 4 <br>👯 I’m a quick learner<br>🌱 I’m currently learning Embedded C and Web 3.0<br>💬 Ask me about Embedded systems, IOT, Digital Circuit Design<br>
+🔭 I’m currently exploring RISC-V  <br>👯 I’m a quick learner<br>🌱 I’m currently learning Embedded C and Web 3.0<br>💬 Ask me about Embedded systems, IOT, Digital Circuit Design<br>
 
 
 ## 🌐 Socials:
