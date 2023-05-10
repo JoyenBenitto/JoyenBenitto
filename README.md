@@ -30,12 +30,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JoyenBenitto/JoyenBenitto/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/JoyenBenitto/count.svg?"  />
 </div>
