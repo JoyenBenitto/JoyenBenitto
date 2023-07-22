@@ -22,5 +22,7 @@ Thank you for visiting my GitHub profile! I hope you find my projects inspiring 
 Happy coding! 🚀
 
 Linkedin: [JoyenBenitto](https://www.linkedin.com/in/joyen-benitto-4436031b3/)
-Email: joyen.benitto12@gmail.com
+
+Email: joyen.benitto12@gmail.com<br>
+
 twitter: [@JoyenBenitto](https://twitter.com/JoyenBenitto)
