@@ -19,10 +19,6 @@ Hello there! 👋 I'm  ***Joyen Benitto***  final-year Electronics and Communica
 I'm always open to collaboration and welcome any feedback or suggestions on my projects. Feel free to reach out to me through GitHub discussions or by sending me a direct message. Together, we can build innovative solutions and make a positive impact in the field of digital systems and automation.
 
 Thank you for visiting my GitHub profile! I hope you find my projects inspiring and informative. Let's connect and embark on an exciting journey of digital design and automation. 
+
 Happy coding! 🚀
 
-Linkedin: [JoyenBenitto](https://www.linkedin.com/in/joyen-benitto-4436031b3/)
-
-Email: joyen.benitto12@gmail.com<br>
-
-Twitter: [@JoyenBenitto](https://twitter.com/JoyenBenitto)
