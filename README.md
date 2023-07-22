@@ -25,4 +25,4 @@ Linkedin: [JoyenBenitto](https://www.linkedin.com/in/joyen-benitto-4436031b3/)
 
 Email: joyen.benitto12@gmail.com<br>
 
-twitter: [@JoyenBenitto](https://twitter.com/JoyenBenitto)
+Twitter: [@JoyenBenitto](https://twitter.com/JoyenBenitto)
