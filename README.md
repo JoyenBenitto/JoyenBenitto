@@ -1,6 +1,7 @@
+---![Pixel Art Gif Wallpaper - Gambar Wallpaper Keren](https://github.com/JoyenBenitto/JoyenBenitto/assets/75515758/263e6314-5f02-4e9d-85e8-9db7b053e59d)
+
 Hello there! 👋 I'm  ***Joyen Benitto***  final-year Electronics and Communication Engineering (ECE) student from PES University, and I'm thrilled to welcome you to my GitHub profile! As an enthusiastic hardware designer and programming enthusiast, I'm passionate about creating RTL (Register Transfer Level) codes and leveraging the power of Python to automate and streamline various processes in the field of digital systems.
 
----
 What I Do:
 
 🛠️ RTL Design and Verification: RTL design is like art to me, where I get to architect digital systems and bring them to life using hardware description languages (HDLs) like SystemVerilog and BSV. I enjoy crafting efficient and reliable designs while keeping performance and scalability in mind. 
