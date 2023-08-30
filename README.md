@@ -5,7 +5,7 @@ Hello there! 👋 I'm  ***Joyen Benitto***  final-year Electronics and Communica
 ---
 What I Do:
 
-🛠️ RTL Design and Verification: RTL design is like art to me, where I get to architect digital systems and bring them to life using hardware description languages (HDLs) like SystemVerilog and BSV. I enjoy crafting efficient and reliable designs while keeping performance and scalability in mind. 
+🛠️ RTL Design: RTL design is like art to me, where I get to architect digital systems and bring them to life using hardware description languages (HDLs) like SystemVerilog and BSV. I enjoy crafting efficient and reliable designs while keeping performance and scalability in mind. 
 
 🐍 Python Automation: Python is my go-to language when it comes to automating mundane and repetitive tasks. I find immense satisfaction in creating Python scripts and tools that make complex processes simpler and more efficient. Whether it's automating testbenches, generating configuration files, or analyzing simulation results, Python has proven to be an indispensable tool in my workflow.
 
