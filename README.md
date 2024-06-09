@@ -1,5 +1,5 @@
-![Pixel Art Gif Wallpaper - Gambar Wallpaper Keren](https://github.com/JoyenBenitto/JoyenBenitto/assets/75515758/ec0a28d1-a08c-4647-9480-a9e91d4062dd)
+Hello there! 👋 I'm  [Joyen Benitto](https://joyenbenitto.com) I am a SoC Design Engineer [@InCore Semiconductors](https://incoresemi.com/) where I am building a RISC-V based SoC and Core generators. I love writing RTL, Automation scripts, code generators, and computer architecture exploration tools.
 
-Hello there! 👋 I'm  ***Joyen Benitto***, a final-year Electronics and Communication Engineering (ECE) student from PES University. I am currently Interning at InCore Semiconductors.
+Feel free to build upon my existing work and report bug in any of my repos :)
 
-Welcome to my profile :)
+Here is my [goodreads](https://www.goodreads.com/user/show/178169058-joyen-benitto)
