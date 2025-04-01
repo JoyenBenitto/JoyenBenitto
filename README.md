@@ -1,10 +1,9 @@
-Hello there! 👋 I'm  [Joyen Benitto](https://joyenbenitto.com). I am a SoC Design Engineer [@InCore Semiconductors](https://incoresemi.com/) where I am developing a core agnostic SoC generator (methodology and the tool itself). I love writing RTL, Automation scripts, code generators, and computer architecture exploration tools.
+👋 Hello, I'm Joyen Benitto
 
-I majorly work with bluespec, SV, C and python. however I also love using Go and Rust based on the project requirements. 
-Feel free to build upon my existing work and report bug in any of my repos :)
+I’m a SoC Design Engineer at InCore Semiconductors, working on a core-agnostic SoC generator—both the methodology and the tooling that enables it. My focus is on hardware design automation, building scalable methodologies that streamline SoC development.
 
-Some intresting links:
-- [goodreads](https://www.goodreads.com/user/show/178169058-joyen-benitto)
-- [x(twitter)](https://twitter.com/JoyenBenitto)
-- [linkedin](https://www.linkedin.com/in/joyen-benitto-4436031b3/)
-- [personal-site](https://joyenbenitto.com)
+My interests lie at the intersection of RTL design, CAD tools, and architecture exploration. I work primarily with Bluespec, SystemVerilog, Python, C++ and C, but I also enjoy using Rust when the problem demands it.
+
+I believe that hardware should be as composable as software, and I’m always exploring ways to make that a reality. If you're working on similar ideas—or just curious—feel free to reach out, contribute, or report issues in any of my repositories.
+
+Let’s build better tools for hardware design. 🚀
